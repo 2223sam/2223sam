@@ -1,9 +1,9 @@
 <p align="center">
    <img width="300" src="https://i.ibb.co/j42TfbC/memoji.png">
 </p>
-<h1 align="center">Hi 👋, I'm sam</h1>
+<h1 align="center">Hi 👋, I'm elias</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2223sam&label=visitors&color=94d0f4&style=flat" alt="2223sam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasfrehner&label=visitors&color=94d0f4&style=flat" alt="eliasfrehner" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/elias-frehner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-frehner" height="30" width="40" /></a>
