@@ -19,7 +19,15 @@
 
 ###
 
-<h5 align="left">Connect with me:</h5>
+<h4 align="left">About me:</h4>
+
+###
+<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning ansible<br>🎯 Goals: hmm?!<br>🎲 Fun fact: I collect pens</p>
+
+
+###
+
+<h4 align="left">Connect with me:</h4>
 
 ###
 
@@ -36,7 +44,7 @@
 
 ###
 
-<h5 align="left">I love to work with:</h5>
+<h4 align="left">I love to work with:</h4>
 
 ###
 
