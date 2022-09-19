@@ -20,19 +20,12 @@
 ###
 
 <h4 align="left">About me:</h4>
-
-###
 <p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning ansible<br>🎯 Goals: hmm?!<br>🎲 Fun fact: I collect pens</p>
 
 
 ###
 
 <h4 align="left">Connect with me:</h4>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="www.linkedin.com/in/elias-frehner" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -45,9 +38,6 @@
 ###
 
 <h4 align="left">I love to work with:</h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
