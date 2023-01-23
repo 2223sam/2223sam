@@ -20,7 +20,7 @@
 ###
 
 <h4 align="left">About me:</h4>
-<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning how to deal with learning issues<br>🎯 Goals: work on project vulner<br>🎲 Fun fact: I collect pens</p>
+<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning how to deal with learning issues<br>🎯 Goals: finish PlexGet<br>🎲 Fun fact: I collect pens</p>
 
 
 ###
