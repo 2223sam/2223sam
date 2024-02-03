@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Elias<br><br>- 🔭 I’m working as Cyber Security Specialist<br>- 📚 I'm currently learning Angular<br>- ⚡ In my free time I like to climb some mountains</p>
+<p align="left">I'm Elias<br><br>- 🔭 I’m working as a Cyber Security Specialist<br>- 📚 I'm currently learning Angular<br>- ⚡ In my free time I like to climb some mountains</p>
 
 ###
 
